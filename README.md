@@ -18,9 +18,7 @@
   <a href="mailto:watergunwoo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
-  <a href="https://baekunwoo.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
+
 </div>
 
 <br/>
